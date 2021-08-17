@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  <h3> :man: &nbsp;Sobre mim </h3>
 
 - ⚡ &nbsp; Desenvolvedor Júnior.
-- 🎓 &nbsp; Graduando em **Ciência da Computação** na <a href="https://www.ufc.br/">UFC - Universidade Federal do ceará</a>.
+- 🎓 &nbsp; Graduando em **Ciência da Computação** na <a href="https://www.ufc.br/">UFC - Universidade Federal do Ceará</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **C#, Data science, Machine learning, .Net, Redux Sagas**.
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software
 
