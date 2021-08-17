@@ -1,4 +1,4 @@
-## Oi, eu sou o Fábio Santos
+## Oi! Eu sou o Fábio Santos
 <!--
 **santossousa/santossousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##
 <div>
  <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- ⚡ &nbsp; Desenvolvedor Júnior.
 - 🎓 &nbsp; Graduando em **Ciência da Computação** na <a href="https://www.ufc.br/">UFC - Universidade Federal do ceará</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🌱 &nbsp; Aprendendo mais sobre **C#, Data science, Machine learning, .Net, Redux Sagas**.
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
@@ -70,12 +70,19 @@ Here are some ideas to get you started:
  
  ##
  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
- 
-<div>
-  <a href="https://www.instagram.com/fabio_s7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  <a href="https://www.linkedin.com/in/f%C3%A1bio-santos-a2321315as" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+ <p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-santos-a2321315as" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="https://www.instagram.com/fabio_s7/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>
  <div>
  <img align="right" alt="Rafa-yoda" width="150"  src="https://media.giphy.com/media/q3ZBNmc4uNNXq/giphy.gif">
  </div>
