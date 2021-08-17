@@ -1,4 +1,4 @@
-## Oi, eu sou Fábio Santos
+## Oi, eu sou o Fábio Santos
 <!--
 **santossousa/santossousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
