@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - ⚡ &nbsp; Desenvolvedor Júnior.
 - 🎓 &nbsp; Graduando em **Ciência da Computação** na <a href="https://www.ufc.br/">UFC - Universidade Federal do Ceará</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **C#, Data science, Machine learning, .Net, Redux Sagas**.
+- 🌱 &nbsp; Aprendendo mais sobre **Data science, Machine learning,statistics and probability, data visualization, SQL, .Net, Redux Sagas**.
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
