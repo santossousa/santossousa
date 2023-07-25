@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <div>
  <h3> :man: &nbsp;Sobre mim </h3>
 
-- ⚡ &nbsp; Desenvolvedor Júnior.
-- 🎓 &nbsp; Graduando em **Ciência da Computação** na <a href="https://www.ufc.br/">UFC - Universidade Federal do Ceará</a>.
+- ⚡ &nbsp; Cientista de dados.
+- 🎓 &nbsp; Graduado em **Ciência da Computação** na <a href="https://www.ufc.br/">UFC - Universidade Federal do Ceará</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Data science, Machine learning,statistics and probability, data visualization, SQL, .Net, Redux Sagas**.
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software
 
